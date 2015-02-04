@@ -1,6 +1,9 @@
 chromedriver.log
-*.pyc
+*.py[cod]
 .idea/*
 *~
 build
 scbU
+.DS_Store
+html_app/index.html
+
